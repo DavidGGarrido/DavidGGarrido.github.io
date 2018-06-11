@@ -1,0 +1,85 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="DavidGarrido.com" resolutions="1x" timestamp="1528728722064">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="258508547" ref="index:sobre-mi:contacto:demo:galeria"/>
+    <file name="index.css" crc="4281383987" ref="index"/>
+    <file name="sobre-mi.css" crc="269434045" ref="sobre-mi"/>
+    <file name="contacto.css" crc="4115142455" ref="contacto"/>
+    <file name="demo.css" crc="4055432971" ref="demo"/>
+    <file name="galeria.css" crc="3992799624" ref="galeria"/>
+  </folder>
+  <folder name="assets">
+    <file name="dibujo-para-imprimir.tif" crc="4128342817" seo="true" mt="1464169308000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:galeria:demo:contacto:sobre-mi"/>
+    <file name="museutils.js" crc="4216313831" ref="index:galeria:demo:contacto:sobre-mi"/>
+    <file name="whatinput.js" crc="86476730" ref="index:galeria:demo:contacto:sobre-mi"/>
+    <file name="museconfig.js" crc="474374037" ref="index:galeria:demo:contacto:sobre-mi"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:galeria:demo:contacto:sobre-mi"/>
+    <file name="webpro.js" crc="4143865194" ref="index:galeria:contacto"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index:galeria"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index:galeria"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index:galeria"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:galeria:demo:contacto:sobre-mi"/>
+    <file name="require.js" crc="3951022091" ref="index:galeria:demo:contacto:sobre-mi"/>
+    <file name="form_check.php" crc="154010282" ref="contacto"/>
+    <file name="form_throttle.php" crc="266437015" ref="contacto"/>
+    <file name="form_process.php" crc="512629711" ref="contacto"/>
+    <file name="form-u4794.php" crc="4264881590" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="u1305-4.png" crc="243896236" ref="index:galeria:demo:contacto:sobre-mi"/>
+    <file name="u1429-4.png" crc="107852593" ref="index:galeria:demo:contacto:sobre-mi"/>
+    <file name="u1401-4.png" crc="336796038" ref="index:galeria:demo:contacto:sobre-mi"/>
+    <file name="u1344-4.png" crc="4135880171" ref="index:galeria:demo:contacto:sobre-mi"/>
+    <file name="u1459-4.png" crc="3828481654" ref="index:galeria:demo:contacto:sobre-mi"/>
+    <file name="dibujo para imprimir.jpg" crc="3948401284" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:galeria"/>
+    <file name="loading.gif" crc="3815509949" ref="index:galeria"/>
+    <file name="u1246-4.png" crc="3765702255" ref="index:galeria:demo:contacto:sobre-mi"/>
+    <file name="_mg_3391.jpg" crc="156116847" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_mg_4151.jpg" crc="459752055" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_2049.jpg" crc="402604466" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_2760.jpg" crc="4143875294" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_4394.jpg" crc="291991734" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="dibujo para imprimir771x535.jpg" crc="3791959906" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_mg_3391-crop-u4463.jpg" crc="4218189305" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="_mg_4151-crop-u5464.jpg" crc="14577909" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_2049-crop-u5490.jpg" crc="4226668697" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_2760-crop-u5516.jpg" crc="431749603" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_4394-crop-u5542.jpg" crc="130607038" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="dibujo para imprimir198x137.jpg" crc="401509539" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="247562131" seo="true" mt="1528727628683" redirect="true"/>
+  <file name="galeria.html" crc="3838935286" seo="true" mt="1528727628683" redirect="true"/>
+  <file name="demo.html" crc="73087093" seo="true" mt="1528728283482" redirect="true"/>
+  <file name="contacto.html" crc="3933722450" seo="true" mt="1528727709418" redirect="true"/>
+  <file name="sobre-mi.html" crc="4195949523" seo="true" mt="1528728378390" redirect="true"/>
+</manifest>
